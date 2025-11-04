@@ -1,4 +1,8 @@
 content1
 content2
 content3
+<<<<<<< HEAD
 main content4
+=======
+tux content4
+>>>>>>> tux
